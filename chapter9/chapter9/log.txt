@@ -1,0 +1,10 @@
+Message:debug File:e:\opencv\opencv3\source\chapter9\chapter9\main.cpp  Line:59  Function:int __cdecl main(int,char *[])  DateTime:2019-12-09 13:47:40 周一
+Message:QMetaObject::connectSlotsByName: No matching signal for on_openLenaJpg_triggered() File:kernel\qobject.cpp  Line:3590  Function:void __cdecl QMetaObject::connectSlotsByName(class QObject *)  DateTime:2019-12-09 13:47:40 周一
+Message:QMetaObject::connectSlotsByName: No matching signal for on_restoreFile_triggered() File:kernel\qobject.cpp  Line:3590  Function:void __cdecl QMetaObject::connectSlotsByName(class QObject *)  DateTime:2019-12-09 13:47:40 周一
+Message:debug File:e:\opencv\opencv3\source\chapter9\chapter9\main.cpp  Line:59  Function:int __cdecl main(int,char *[])  DateTime:2019-12-09 13:50:00 周一
+Message:QMetaObject::connectSlotsByName: No matching signal for on_openLenaJpg_triggered() File:kernel\qobject.cpp  Line:3590  Function:void __cdecl QMetaObject::connectSlotsByName(class QObject *)  DateTime:2019-12-09 13:50:00 周一
+Message:QMetaObject::connectSlotsByName: No matching signal for on_restoreFile_triggered() File:kernel\qobject.cpp  Line:3590  Function:void __cdecl QMetaObject::connectSlotsByName(class QObject *)  DateTime:2019-12-09 13:50:00 周一
+Message:ASSERT failure in QList<T>::at: "index out of range", file c:\qt\qt5.13.2\5.13.2\msvc2017_64\include\qtcore\qlist.h, line 560 File:c:\qt\qt5.13.2\5.13.2\msvc2017_64\include\qtcore\qlist.h  Line:560  Function:  DateTime:2019-12-09 13:50:16 周一
+Message:debug File:e:\opencv\opencv3\source\chapter9\chapter9\main.cpp  Line:59  Function:int __cdecl main(int,char *[])  DateTime:2019-12-09 13:52:08 周一
+Message:QMetaObject::connectSlotsByName: No matching signal for on_openLenaJpg_triggered() File:kernel\qobject.cpp  Line:3590  Function:void __cdecl QMetaObject::connectSlotsByName(class QObject *)  DateTime:2019-12-09 13:52:08 周一
+Message:QMetaObject::connectSlotsByName: No matching signal for on_restoreFile_triggered() File:kernel\qobject.cpp  Line:3590  Function:void __cdecl QMetaObject::connectSlotsByName(class QObject *)  DateTime:2019-12-09 13:52:08 周一

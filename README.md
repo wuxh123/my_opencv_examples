@@ -24,6 +24,9 @@
   
 ## 配置如图：
      ![mage](image/2.jpg)     
-  
+
+## 运行时copy几个dll到当前目录：
+     ![mage](image/3.jpg) 
+     
 ## 编译如图：
      ![image](image/1.jpg)
