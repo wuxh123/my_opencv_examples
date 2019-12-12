@@ -23,7 +23,7 @@
   下载 opencv3.4.8解压缩皆可，配置的时候要用到opencv目录。
   
 ## 配置如图：
-     ![image](image/2.jpg)     
+     ![mage](image/2.jpg)     
   
 ## 编译如图：
      ![image](image/1.jpg)
