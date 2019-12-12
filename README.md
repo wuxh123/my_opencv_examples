@@ -23,10 +23,10 @@
   下载 opencv3.4.8解压缩皆可，配置的时候要用到opencv目录。
   
 ## 配置如图：
-     ![Image](image/2.jpg)     
+     ![Img](image/2.jpg)     
 
 ## 运行时copy几个dll到当前目录：
-     ![Image](image/3.jpg) 
+     ![Img](image/3.jpg) 
      
 ## 编译如图：
-     ![Image](image/1.jpg)
+     ![Img](image/1.jpg)
